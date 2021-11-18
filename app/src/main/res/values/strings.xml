@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My View Group</string>
+    <string name="dummy_photos">6 Photos</string>
+    <string name="dummy_price">Rp12.190.000</string>
+    <string name="stock">Hanya tersisa 5 lagi, Segera Beli!</string>
+    <string name="product_description">Pixel 5 kini dibekali dengan sejumlah peningkatan dibanding generasi sebelumnya, salah satunya sudah mendukung jaringan 5G. Google mengandalkan System-on-Chip (SoC) Qualcomm Snapdragon 765G sebagai otakdari ponsel. Kapasitas RAM 8 GB dan media penyimpanan (storage) 128 GB, kamera sekunder di Pixel 5 kini berfungsi sebagai kamera ultrawide (bukan telefoto) dengan resolusi 16 megapiksel. Kamera utama Google Pixel 5 memiliki resolusi 12 MP. Ponsel ini memiliki layar bermateri OLED dengan diagonal 6 inci dan resolusi Full HD Plus.</string>
+    <string name="spec">Spesifikasi</string>
+    <string name="display">Layar</string>
+    <string name="display_value">5.0 inches\n FHD AMOLED at 441ppi\n 2.5D Corning® Gorilla® Glass 4</string>
+    <string name="dimension">Dimensi</string>
+    <string name="dimension_value">5.6 x 2.7 x 0.2 ~ 0.3 inches\n143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="battery">Baterai</string>
+    <string name="battery_value">2,770 mAh battery\nStandby time (LTE): up to 19 days\nTalk time (3g/WCDMA): up to 26 hours\nInternet use time (Wi-Fi): up to 13 hours\nInternet use time (LTE): up to 13 hours\nVideo playback: up to 13 hours\nAudio playback (via headset): up to 110 hours\nFast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="sell_by">Dijual oleh:</string>
+    <string name="seller">Tryo Asnafi</string>
+    <string name="buy">Beli</string>
+</resources>
